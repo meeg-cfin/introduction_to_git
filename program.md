@@ -1,11 +1,11 @@
 # Programme
 
-The aim of the workshop is to give participants an introduction to version control with git for personal use, i.e. focus on "single user" use and using git in multi-collaborator projects.
+The aim of the workshop is to give participants an introduction to version control with git for personal use, i.e. focus on "single user" use.
 
 ## Introduction to command line and version control systems
 
 * Basic use of the CL
-	* Interacting with the computer	
+	* Interacting with the computer
 	* Move around
 		* mje: I think we should provide material on file structures, and not spend to much time on that.
 * What is version control (VS)?
@@ -21,7 +21,7 @@ The aim of the workshop is to give participants an introduction to version contr
 	- git status
 	- git commit
 	- git log
-	- repositories 
+	- repositories
 	- git pull/push
 	- branches
 
