@@ -10,13 +10,13 @@ The aim of the workshop is to give participants an introduction to version contr
 
 Not needed for the git-workshop, but here for completeness.
 
-### [the command line interface (CLI)](https://github.com/meeg-cfin/scientific_computing_basics/blob/abd97ea1688fa7a102773c25a5a1c0e89a7a123c/notebooks/21-Command-line-interface.ipynb)
+### [the command line interface (CLI)](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/21-Command-line-interface.ipynb)
 
 The motivation behind controlling a computer by typing commands rather than pointing and clicking with a mouse.
 
 *It is assumed that you have at least cursory knowledge detailed on this page.* `git` is a _command line utility_, and you will need to be able to navigate the [file system](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/12-Files-and-filesystems.ipynb) of your computer (or a `hyades` server via Remote Desktop).
 
-### [more advanced CLI usage](https://github.com/meeg-cfin/scientific_computing_basics/blob/abd97ea1688fa7a102773c25a5a1c0e89a7a123c/notebooks/22-Working-on-command-line.ipynb)
+### [more advanced CLI usage](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/22-Working-on-command-line.ipynb)
 
 Take a look at copying/moving files, and making/removing directories.
 
