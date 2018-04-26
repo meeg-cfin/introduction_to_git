@@ -1,18 +1,20 @@
-## Prerequisites (_a.k.a._ independent study prior to workshop)
+# Prerequisites 
 
-[A PhD course](https://github.com/meeg-cfin/scientific_computing_basics) was recently developed to introduce basic concepts of scientific computing. The course materials there were provided as [jupyter notebooks](jupyter.org), which can be viewed in their static form on GitHub (see links below).
 
-### [an overview of scientific computing topics](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/01-Course-Overview.ipynb)
+To make sure that we have a smooth start, please make sure 
+to look through the following issues beforehand:
 
-Not needed for the git-workshop, but here for completeness.
+## 1) Make yourself familiar with the terminal
+If you are not a terminal user already, please have a look at the 
+following resources on the CFIN Github page - you should be comfortable 
+with the idea of working on the command line.
+* [The command line interfacne](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/21-Command-line-interface.ipynb)
+* [Working on the command line](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/22-Working-on-command-line.ipynb)
 
-### [the command line interface (CLI)](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/21-Command-line-interface.ipynb)
+Those scripts belong to a [PhD course](https://github.com/meeg-cfin/scientific_computing_basics) that was recently developed to introduce basic concepts of scientific computing. The course materials there were provided as [jupyter notebooks](jupyter.org), which can be viewed in their static form on GitHub.
 
-The motivation behind controlling a computer by typing commands rather than pointing and clicking with a mouse.
-
-*It is assumed that you have at least cursory knowledge detailed on this page.* `git` is a _command line utility_, and you will need to be able to navigate the [file system](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/12-Files-and-filesystems.ipynb) of your computer (or a `hyades` server via Remote Desktop).
-
-### [more advanced CLI usage](https://github.com/meeg-cfin/scientific_computing_basics/blob/master/notebooks/22-Working-on-command-line.ipynb)
-
-Take a look at copying/moving files, and making/removing directories.
-
+## 2) Install Git to your computer
+Please install the version control system Git to your computer before 
+the course to allow for a smooth start on Thursday (and/or make sure you 
+have a reasonably up-to-date version of Git).
+Guidelines and help on how to do this can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
