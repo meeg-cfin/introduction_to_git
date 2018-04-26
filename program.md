@@ -1,18 +1,18 @@
 # Program
 
-The aim of the workshop is to give participants an introduction to version control with `git` for personal use. Although `git`, and websites/services such as [GitHub](github.com), provide advanced collaborative tools for writing code in groups, the focus of this workshop will be on "single user" use.
+The aim of the workshop is to give participants an introduction to version control with Git for personal use. Although Git, and websites/services such as [GitHub](https://github.com), provide advanced collaborative tools for writing code in groups, the focus of this workshop will be on "single user" use.
 
 
-## Introduction to git
+## Introduction to Git
 
-* What is git?
-* Why use git vs other version control systems?
+* What is Git?
+* Why use Git vs other version control systems?
 * Git work flow
-	- git status
-	- git commit
-	- git log
-	- branches
-	- revert 
+	- ``git status``
+	- ``git add`` and ``git commit``
+	- ``git log``
+	- branching
+	- ``git revert``
 	
 ## Introduction to GitHub
 
