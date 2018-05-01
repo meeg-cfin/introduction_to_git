@@ -1,7 +1,9 @@
 # Introduction to git
 
-Basics of using git for version control, and GitHub as an external repository
+Introductory workshop on git and GitHub.
+In the introduction, we will cover both the basics of git and GitHub and 
+introduce you to an easy pipeline to version control your scripts.
 
 ## Hands-on workshop
+April 26, 2018, CFIN
 
-Early December (provisionally Tue 5 December 9-12 am), half a day, at one of the meeting rooms at CFIN.
